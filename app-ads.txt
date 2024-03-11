@@ -2255,3 +2255,12 @@ google.com, pub-7983651257838282, RESELLER, f08c47fec0942fa0
 opera.com,pub9443931419968,DIRECT,55a0c5fd61378de3
 improvedigital.com, 2320, RESELLER
 google.com, pub-7897352328627076, DIRECT, f08c47fec0942fa0
+yandex.com, 98038400, DIRECT
+improvedigital.com, 2031, RESELLER
+betweendigital.com, 43554, RESELLER
+uis.mobfox.com, 165, RESELLER
+Contextweb.com, 562899,RESELLER,89ff185a4c4e857c
+hyperad.tech, 150, RESELLER
+hyperad.tech, 215, RESELLER
+google.com, pub-5533854580432370, RESELLER, f08c47fec0942fa0
+
